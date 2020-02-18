@@ -51,7 +51,7 @@ Se você quiser experimentar o WSGI com [Python](/python/) leia a matéria abaix
 - [Python, servindo páginas HTML com WSGI](/python/servindo-paginas-html-com-wsgi/)
 
 Antes de mexer como o WSGI talvez vocẽ queira entender melhor como criar e configurar Virutal Host no Apache, para tal
-leia as matérias seguintes na seção [Miscellaneous](/misc/):
+leia as matérias seguintes na seção [Miscellaneous](/miscellaneous/):
 
-- [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/)
-- [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
+- [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/)
+- [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/)
