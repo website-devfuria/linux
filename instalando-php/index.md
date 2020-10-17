@@ -32,8 +32,8 @@ Instale através do aptitute
 
 ### Ubuntu 15.4 (Vivid Vervet)
 
-Para instalar o PHP através do __apt-get__ execute o comando abaixo, você precisará ser root ou utiliza `sudo` antes do
-comando.
+Para instalar o PHP através do __apt-get__ execute o comando abaixo, você precisará ser root ou
+utiliza `sudo` antes do comando.
 
     apt-get install php5
 
@@ -49,20 +49,21 @@ Sua tela deve ser parecida com a minha...
         with Zend OPcache v7.0.4-dev, Copyright (c) 1999-2014, by Zend Technologies
 
 
-Como visto, a versão instalada é a 5.6.4, porém a versão mais atual é a 5.6.10 (enquanto escreve este artigo). Não tem
-jeito, a versão que acompanha a distro estará sempre desatualizada.
+Como visto, a versão instalada é a 5.6.4, porém a versão mais atual é a 5.6.10 (enquanto escreve
+este artigo). Não tem jeito, a versão que acompanha a distro estará sempre desatualizada.
 
 Você deverá compilar os fontes caso queira obter a versão mais atual.
 
-Outra saída bem interessante é o [Phpbrew](http://phpbrew.github.io/phpbrew/), ele te ajudará a gerenciar diversas
-versões do PHP, isso é ótimo pois você poderá ter mais de uma versão instalada. Alias, o Phpbrew é indicado pelo projeto
-[phptherightway](http://br.phptherightway.com/#instalacao_no_mac).
+Outra saída bem interessante é o [Phpbrew](http://phpbrew.github.io/phpbrew/), ele te ajudará a
+gerenciar diversas versões do PHP, isso é ótimo pois você poderá ter mais de uma versão instalada.
+Alias, o Phpbrew é indicado pelo projeto [phptherightway](http://br.phptherightway.com/#instalacao_no_mac).
 
 
 
 #### Pacotes complementares
 
-Talvez você queira instalar alguns pacotes complementares como, por exemplo a biblioteca GD para geração de imagens:
+Talvez você queira instalar alguns pacotes complementares como, por exemplo a biblioteca GD para
+geração de imagens:
 
     apt-get install php5-gd
 
@@ -79,7 +80,7 @@ Se precisar de mais informações sobre um pacote específico utilize o seguinte
 
     apt-cache show package_name
 
-Se você pretende utilizar o PHP com o Apache é já possui ele instalado em sua máqui, então lembre-se de
+Se você pretende utilizar o PHP com o Apache e já possui ele instalado em sua máquina, então lembre-se de
 [reiniciar o Apache](/linux/reiniciar-servidor-apache)
 
 
