@@ -1,7 +1,8 @@
 ---
 title:       Instalando o npm
 description: Receita de como instalar o npm, o gerenciador de pacotes do Node.js.
-capitulo:    linux-instalando-nodejs
+permalink:   instalando-npm/index.html
+redirect_to: ../nodejs/instalando-npm/
 ---
 
 ### O que é a NPM do Node.JS ?

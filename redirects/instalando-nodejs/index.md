@@ -2,15 +2,16 @@
 title:       Instalando o nodejs
 description: Veja 4 formas de instalar o nodejs no Linux
 capitulo:    linux-instalando-nodejs
+permalink:   instalando-nodejs/index.html
+redirect_to: ../nodejs/melhor-forma-para-instalar-nodejs/
 ---
 
-Eu descobri <strike> 3 formas</strike>  4 formas de instalar o __nodejs__ no Debian (Debian-wheezy).
+Eu descobri  __3 formas__  4 formas de instalar o __nodejs__ no Debian (Debian-wheezy).
 
 Esta primeira é a mais interessante.
 
 
-Instalando o node.js através do nvm
----
+## Instalando o node.js através do nvm
 
 O [nvm](https://github.com/creationix/nvm) é a sigla de "Node Version Manager", trata-se de um gerenciador
 de versão do __nodejs__.
@@ -39,8 +40,8 @@ A seguir, as demais receitas....
 
 
 
-Compilando os fontes do git-hub
----
+## Compilando os fontes do git-hub
+
 
 Atualize o sistema e instale as dependências via __apt-get__:
 
@@ -64,8 +65,7 @@ Para testar execute:
     node -v
 
 
-Compilando os fontes do site oficial
----
+## Compilando os fontes do site oficial
 
 Atualize o sistema e instale as dependências via __apt-get__:
 
@@ -103,8 +103,7 @@ Fonte
 
 
 
-Via pacote deb (Debian-wheezy)
----
+## Via pacote deb (Debian-wheezy)
 
 Esta é a forma recomendado na documentação, mas comigo não funcionou! Então, boa sorte...
 
@@ -125,8 +124,7 @@ Fonte
 - [https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 
 
-Veja também
----
+## Veja também
 
 - [Instalando o npm](/linux/instalando-npm/)
 - [Aprenda Node.js](/javascript/nodejs/)

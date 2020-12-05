@@ -17,11 +17,6 @@ Instalar  aplicativos no Linux é um desafio constante e normalmente assusta o p
 Aqui, mantenho um __guia prático de instalações de aplicativos para Linux__, veja como instalar...
 
 
-### Instalação do NodeJs
-
-{% include get-capitulo.html page_serie="linux-instalando-nodejs" %}
-{% include menus.html %}
-
 ### Instalação do Python
 
 {% include get-capitulo.html page_serie="linux-instalando-python" %}
