@@ -29,11 +29,12 @@ Aqui, mantenho um __guia prático de instalações de aplicativos para Linux__, 
 {% include menus.html %}
 
 
+<!--
 ### Instalação do PHP
 
 {% include get-capitulo.html page_serie="linux-instalando-php" %}
 {% include menus.html %}
-
+-->
 
 ### Instalação do Apache
 
