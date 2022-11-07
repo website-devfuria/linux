@@ -63,7 +63,6 @@ Similarmente, você poderá digitar (sem entrar no console do python, ou seja, n
 ## Fontes:
 
 - [Site oficial: https://www.djangoproject.com/](https://www.djangoproject.com/)
-- [http://docs.djangobrasil.org/index.html](http://docs.djangobrasil.org/index.html)
 
 
 ## Leia também
